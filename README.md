@@ -20,4 +20,4 @@
 I used Cinemachine for shake effect. 
 You can see my code and sample scene
 
-<a href="">Playable test</a>
+<a href="https://hilamghost.itch.io/camera-shake-prototype">Playable test</a>
